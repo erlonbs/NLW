@@ -7,14 +7,14 @@
 Projeto construído no evento
 Next Level Week da Rocketseat.
 
-![Clique aqui para acessar](https://erlonbs.github.io/nlw-esports-explorer/)
+[📎 Clique aqui para acessar](https://erlonbs.github.io/nlw-esports-explorer/)
 
-## Tecnologias
+## 🛠 Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## Contato
+## 🏆 Contato
 
 erlonecia@msn.com
